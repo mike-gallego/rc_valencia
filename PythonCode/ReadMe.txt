@@ -1,0 +1,1 @@
+If you want to connect to your data base, you would have to edit the dictionary in the python code to your database information.
